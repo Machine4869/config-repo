@@ -13,4 +13,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 girl:
-  name: 花栗鼠2号
+  name: 花栗鼠3号
